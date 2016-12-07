@@ -1,0 +1,6 @@
+
+####para mostrar una forma visual######################
+unit:=TSistemaPago.Create(Nil);
+unit.ShowModal;
+unit.Free;
+unit:=nil;
